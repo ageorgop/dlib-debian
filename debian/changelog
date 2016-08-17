@@ -1,3 +1,9 @@
+dlib (19.0-1) UNRELEASED; urgency=medium
+
+  * Update package to version 19.0
+
+ -- Alex Georgopoulos <a.georgop@gmail.com>  Wed, 10 Aug 2016 03:56:42 +0000
+
 dlib (18.18-1) unstable; urgency=low
 
   * Initial release. (Closes: #800531)
